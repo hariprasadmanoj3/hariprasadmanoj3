@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hariprasad M P  
+# Hi there 👋 I'm Hariprasad 
 
 🎓 Electronics & Communication Engineering Graduate – Govt. Model Engineering College, Kochi (KTU)  
 💻 Full Stack Developer | Django & MERN Stack Enthusiast | IoT & Embedded Systems Hobbyist  
