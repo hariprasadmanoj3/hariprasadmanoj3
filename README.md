@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Hariprasad 
 
 🎓 Electronics & Communication Engineering Graduate – Govt. Model Engineering College, Kochi (KTU)  
-💻 Full Stack Developer | Django & MERN Stack Enthusiast | IoT & Embedded Systems Hobbyist  
+💻 Full Stack Developer | Django & MERN Stack Enthusiast 
 📍 India | 📅 30 May 2003  
 
 ## 🛠 Skills  
